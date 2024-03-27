@@ -20,6 +20,13 @@ https://konsoleh.your-server.de/login.php?domain=stickdatei-vektordatei.de
 Login: stickdatei-vektordatei.de (edited) 
 Passwort: FTwnEDc4cAA7BQ1H (edited) 
 
+DB:
+Host: dedi6056.your-server.de
+Port: 3306
+Username: stickj_1
+
+
+
 Domain Server
 https://www.hetzner.com/
 
