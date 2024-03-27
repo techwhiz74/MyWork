@@ -1,0 +1,230 @@
+--------------PHP1-----------------------Abdul aziz
+👋Hello  ->> Hope you are doing well.
+🏆Check out my most recent successful projects(Order System): https://stickdatei-vektordatei.de/
+I’ve developed this Laravel website(db: MySQL) during 2023.7-2023.12 with remote work in German company.
+It has many advanced function such as auto translation, libchat function, Integrating with slack channel and facebook using slack api and facebook api, sending email..
+I started jab as PHP developer. During 7 years experience used many php based framework, Laravel, cms, open source e-commerce like Joomla, Magento, WordPress and codeigniter and I am confident that my skills and experience align with the requirements of this position.
+
+During my tenure as a developer, I have worked on various projects and used several libraries, including React, React Hook Form, Formik, NextJs, Typescript, NestJs, TypeORM.io, Mongoose, Swagger, Yup Validator, i18next, Tailwind, and Bootstrap. I am familiar with these libraries and have used them in real-world applications, enabling me to troubleshoot and debug any issues that may arise during development.
+
+My Recent PHP Projects
+✅https://sma.tecdiary.net/
+username:nunua
+passwork:@Nunua2020
+✅https://sendportal.io/
+✅http://totaltechnik.com/
+✅https://mytutorlab.com/
+✅https://telectronics.pk/ 
+
+Please message me to discuss more about your project.
+Good or bad, I’d love to hear from you.
+
+Talk soon,
+Regard
+
+
+----------------------Full-Stack1------------------------
+👋Hello  ->>Hope you are doing well.
+Senior Full Stack Developer is here to help you with your project development. 
+I'm confident I have the necessary qualifications to deliver exceptional results for your job post.
+
+
+Kindly check out my most recent and live projects:
+https://www.joinkaya.com/home
+https://www.hearthdisplay.com
+https://www.ilarahealth.com/
+https://www.frontiersignal.com/
+
+👨‍💻I specialize in frontend and backend development, with expertise in various technologies such as JavaScript, typescript, ReactJS, VueJS, AngularJS, HTML5, CSS3, jQuery, Bootstrap, Node.js, Express.js, PHP, Laravel, CodeIgniter, Ruby on Rails, MySQL, MongoDB, PostgreSQL, SQLite, Git, AWS, Docker, Kubernetes, Linux, Apache, Nginx and more.
+🏆Check out my successful live projects on my GitHub profile at https://github.com/pt-3y
+Let's connect and establish clear deadlines and milestones to get started right away.
+Thanks for considering me. 
+ 
+-----------------Full-stact2--------------------------------
+👋Hello  ->> Hope you are doing well😂
+I've read your proposal very carefully and very interested in your job.
+Also I'm confident I have the necessary qualifications to deliver exceptional results for your job post.
+
+I am a highly skilled full-stack developer with over 7 years of hands-on experience in web development. I specialize in Tailwind CSS, Javascript/Typescript, JQuery, React, Next.js, Angular, Vue, Node, Express.js, PHP, Laravel, Python, MongoDB, MySQL, AWS, GCP and more.
+
+I recently completed a full-stack e-commerce project for Shoesforcrews.com, where I worked as a senior full-stack developer for 11 months and integrated Payment Gateway APIs. The project was developed using React/Redux, Next.js, and Node.js. I pride myself on my ability to deliver high-quality code and maintain clear communication with my clients throughout the entire development process.
+
+🏆Check out my successful live projects on my GitHub profile at https://github.com/pt-3y
+I am currently available to start immediately and can commit to working on your project full-time. My experience with 3rd party API integration and my expertise in full-stack development make me the perfect candidate for your upcoming project.
+
+I would be delighted to have the opportunity to discuss your project in more detail and answer any questions you may have.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+Best regards,
+
+
+
+
+
+
+
+... on ComponentPagesTabs {
+            Title
+            SubTitle
+            Disabled
+            TabsCTA {
+              target
+              text
+              url
+              Disabled
+            }
+            TabFields {
+              Disabled
+              TabTitle
+              Title
+              Description
+              Image {
+                data {
+                  attributes {
+                    width
+                    hash
+                    height
+                    url
+                    ext
+                    name
+                    alternativeText
+                    formats
+                  }
+                }
+              }
+            }
+          }
+          ... on ComponentPagesBanner {
+            Title
+            Disabled
+            CTA {
+              Disabled
+              url
+              text
+              target
+            }
+            Color
+            Description
+            Image {
+              data {
+                attributes {
+                  url
+                  width
+                  height
+                  alternativeText
+                  formats
+                  hash
+                  ext
+                }
+              }
+            }
+          }
+          ... on ComponentPagesQuoteSlider {
+            Disabled
+            Quote {
+              Disabled
+              id
+              quote
+              author
+            }
+          }
+          ... on ComponentPagesFeatureImgText {
+            Disabled
+            Title
+            Color
+            Description
+            Image {
+              data {
+                attributes {
+                  hash
+                  url
+                  size
+                  formats
+                  alternativeText
+                  name
+                  ext
+                }
+              }
+            }
+          }
+          ... on ComponentPagesVimeo {
+            Disabled
+            Title
+            EmbedCode
+            Description
+          }
+          ... on ComponentPagesMap {
+            Disabled
+            GoogleMapUrl
+            Image {
+              data {
+                attributes {
+                  formats 
+                  url
+                  ext
+                  alternativeText
+                  hash
+                  width
+                  height
+                }
+              }
+            }
+          }
+          ... on ComponentPagesImage {
+            Disabled
+            caption
+            image {
+              data {
+                attributes {
+                  url
+                  width
+                  height
+                  alternativeText
+                  formats
+                  hash
+                  ext
+                }
+              }
+            }
+          }
+          ... on ComponentPagesQuote {
+            Disabled
+            quote
+            author
+          }
+          ... on ComponentPagesRichText {
+            Disabled
+            richText
+          }
+          ... on ComponentPagesBlogPosts {
+            Disabled
+            Title
+            Description
+          }
+          ... on ComponentPagesAddForm {
+            id
+            form {
+              data {
+                attributes {
+                  Title
+                  Description
+                  FormFields {
+                    FormId
+                    ButtonLabel
+                    CustomInput(pagination: {start: 0, limit: -1}) {
+                      Type
+                      Label
+                      Help
+                      Min
+                      Max
+                      InputID
+                      Placeholder
+                      Required
+                      Options
+                      NotAFit
+                    }
+                  }
+                }
+              }
+            }
+          }

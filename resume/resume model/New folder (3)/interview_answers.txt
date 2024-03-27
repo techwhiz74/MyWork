@@ -1,0 +1,81 @@
+1. Why do you want to work for the SBTi? 
+The SBTi is a global initiative that is focused on combating climate change, which is one of the most pressing challenges facing the world today.
+
+By working for the SBTi, I want to have the opportunity to use your skills and expertise to lead the day-to-day management of the SBTi website, develop a comprehensive migration strategy, and contribute to the development of technical architecture, among other responsibilities.
+
+Overall, I  want to work in a collaborative and innovative environment
+The SBTi could be an excellent opportunity for me.
+
+2. What have you done in the past to organize different priorities in your work and make sure that you can deliver on set deadlines?
+
+In my previous role, I often had multiple projects with different deadlines.
+
+I found that breaking down larger tasks into smaller, more manageable ones helped me stay on track. 
+
+I also used a project management tool to prioritize tasks and set deadlines, regularly reviewed progress, and adjusted the schedule as needed to ensure that deadlines were met. 
+
+3. Describe a time when you made a mistake in your duties. How did you recttify it? 
+
+ In a previous role, I once sent an email to the wrong person, which contained sensitive information.
+As soon as I realized my mistake, I immediately notified my manager and the IT department. 
+They took quick action to delete the email and rectify the situation. 
+
+I also took the opportunity to review my email sending process and ensure that I double-check recipients before hitting 'send' to avoid similar mistakes in the future. 
+
+4. What coding projects are you currently working on? 
+
+I'm currently working on building a mobile app that helps people track their water intake and reminds them to drink water throughout the day.
+
+I'm also contributing to an open-source project that develops tools to analyze and visualize data from social media platforms.
+
+In my spare time, I'm exploring machine learning algorithms and building small projects to better understand their applications.
+
+5. Have you ever worked with a free public API to fetch data? 
+
+Yes, I have worked with several free public APIs to fetch data in my previous projects.
+
+For instance, I've used the OpenWeatherMap API to retrieve weather information and the Google Maps API to get location data.
+
+I also have experience working with APIs that require authentication and handling errors that may occur during API calls.
+
+6. Do you have experience working with HTML, CSS and JSS? 
+Yes, I have experience working with HTML, CSS, and JavaScript.
+
+ I have used these technologies to create and design responsive web pages and user interfaces for various web applications. 
+
+I also have experience working with modern front-end frameworks such as React and Vue.js to build scalable and dynamic web applications.
+
+7. Have you ever worked with the method TDD? Test Driven Development?  
+
+Yes, I have worked with Test Driven Development (TDD) in the past. 
+
+I believe that TDD is a valuable approach to software development as it ensures that code is thoroughly tested and meets the specified requirements before it is implemented.
+
+I have found that TDD helps me write more reliable and maintainable code, and it also helps me to catch errors earlier in the development process.
+
+8. What in your opinion is the most important quality in a full stack developer?
+
+In my opinion, the most important quality in a full stack developer is the ability to learn and adapt quickly. 
+
+Technologies and programming languages are constantly evolving, and it's important to stay up-to-date with the latest trends and tools. 
+
+Another important quality is the ability to work collaboratively with other team members and communicate effectively to ensure everyone is on the same page. 
+
+Finally, attention to detail and a passion for creating clean, efficient code is also crucial for success as a full stack developer.
+
+9. What is the most essential programming language for your job? 
+
+As a full-stack developer, I believe that it's important to have a good understanding of multiple programming languages. 
+
+However, the most essential language would depend on the specific project and its requirements.
+
+I am proficient in multiple languages such as Java, React, JavaScript, and PHP, and I am always willing to learn and adapt to new technologies.
+
+
+10. From the JDs in which areas or tasks do you think you would need more support on and which ones would be easy for you to deliver?
+
+In terms of areas where I might need more support, I would say that any technology or tool that is particularly new or unfamiliar to me would require some extra effort and guidance to get up to speed.
+
+ On the other hand, tasks that involve problem-solving, critical thinking, and creativity are areas where I feel confident and comfortable delivering high-quality work.
+
+ However, I'm always willing to learn and adapt to new challenges, and I believe that with the right support and resources, I can tackle any task successfully.

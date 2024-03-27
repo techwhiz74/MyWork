@@ -1,0 +1,56 @@
+Vietname
+若昂 佩德罗(Joao Pedro)
+后端开发人员(Backend Developer)
+487/1 National Highway 1A, Binh Thanh Ward, 隆安, 越南(487/1 National Highway 1A, Binh Thanh Ward, LongAn, Vietname)
+(84-72) 3591477
+71700
+越南国籍(Vietnamese Nationality)
+1996.7.4
+经验丰富的 Web 开发人员，擅长高级 Web 开发的各个阶段。 熟悉用户界面、测试和调试流程，并在网络系统的设计、安装、测试和维护方面拥有丰富的专业知识。 精通各种技术，包括 Java、ASP.NET、C#、IIS、Tomcat 和 Microsoft SQL Server。 尤其是在PHP、Node.js、Django等后端开发方面有丰富的知识和经验。 擅长接收和监控来自多个数据流的数据，包括Access、SQL和Excel数据源。
+拥有直接与客户合作的经验，以确保在范围和预算范围内实现并满足项目的所有目标。
+能够在独立项目中进行有效的自我管理，以及在团队环境中进行协作。
+敬业、勤奋，致力于成为一名可靠且有价值的团队成员。
+
+EDUCATION
+• Studied a comprehensive curriculum focused on programming languages, software engineering, algorithms, and data structures.
+• Acquired practical knowledge in areas such as database management, web development, and computer networks.
+• Engaged in team projects and individual assignments, honing problem-solving and analytical skills.
+• Participated in that enhanced practical understanding of programming concepts.
+
+
+Experienced web developer skilled in all phases of advanced web development. Familiarity with user interfaces, testing and debugging processes, and extensive expertise in the design, installation, testing and maintenance of network systems. Proficient in various technologies including Java, ASP.NET, C#, IIS, Tomcat, and Microsoft SQL Server. In particular, he has rich knowledge and experience in back-end development such as PHP, Node.js, and Django. Expertise in receiving and monitoring data from multiple data streams, including Access, SQL and Excel data sources.
+Experience working directly with clients to ensure all goals of the project are achieved and met within scope and budget.
+Ability to effectively self-manage on independent projects as well as collaborate in a team environment.
+Dedicated, hard-working and committed to being a reliable and valuable team member.
+
+-php develop
+•Implemented and maintained front-end web applications, resulting in a 10% increase in website traffic and conversion rates.
+•Collaborated with the product team to design and build an intuitive user interface resulting in a 20% increase in customer satisfaction.
+•Implemented a caching strategy that reduced response time by 70% and improved.
+•Applied recent and most useful React+Redux approache and tools during development.
+•Maintained and modified 3 mid-scale software applications while adhering to existing development principles and practices and delivering new features timely with great quality.
+•Wrote PowerShell scripts for automated deployments to Azure Windows Server VMs, using winrm commands.
+•Refactored and Unit Tested large-scale web applications with methods having 100+ lines of legacy code and improved the code testability by 99%.
+•实施和维护前端网络应用程序，使网站流量和转化率提高了10%。
+•与产品团队合作设计和构建直观的用户界面，使客户满意度提高了20%。
+•实施了缓存策略，将响应时间缩短了 70%，并得到了改善。
+•在开发过程中应用了最新且最有用的React+Redux方法和工具。
+•维护和修改了3个中型软件应用程序，同时遵守现有的开发原则和实践，并及时高质量地提供新功能。
+•使用winrm 命令编写PowerShell 脚本以自动部署到Azure Windows Server VM。
+•使用100多行遗留代码的方法对大型Web应用程序进行了重构和单元测试，并将代码可测试性提高了99%。
+
+-Laravel order system
+I've developed this order system which is to be an ordering system with several factors using laravel platform as remote work and the system consist of german and english.
+I've stored the order details of customers which freelacers needs.
+I've made subfolders which contaings its own job and there are still subfolders in it. 
+I've automatically changed system that every customer can access to their orders at any time. 
+I've integrate this system with slack app and WhatsApp so admin, customer, freelancers can chat in any time.
+I've completed translated automaticall functionality in German and English.
+The client was very satisfied the system I've developed and you can find system in my github link.
+我开发了这个订单系统，它是一个使用 Laravel 平台作为远程工作的具有多个因素的订购系统，该系统由德语和英语组成。
+我存储了自由职业者需要的客户订单详细信息。
+我已经创建了包含其自己的作业的子文件夹，并且其中仍然有子文件夹。
+我已经自动更改了系统，每个客户都可以随时访问他们的订单。
+我已将此系统与 Slack 应用程序和 WhatsApp 集成，以便管理员、客户、自由职业者可以随时聊天。
+我已经完成了德语和英语的自动翻译功能。
+客户对我开发的系统非常满意，你可以在我的 github 链接中找到该系统。

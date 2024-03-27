@@ -1,0 +1,61 @@
+Setup was unable to create the directory "C:\Program File\Premium Soft\Navicat Premium 16". Error 5: Access is defined.
+Project Management | ASP.NET,API,React,Vue,Angular,C#,Node,Laravel,UX/UI,WordPress,python,Django,Blockchain,Flutter,Docker
+Software Developer | React,Node,API,WordPress,Python,Blockchain
+
+•Implemented and maintained front-end web applications, resulting in a 10% increase in website traffic and conversion rates.
+•Developed and executed front-end development strategies, resulting in a 15% increase in website performance.
+•Collaborated with the product team to design and build an intuitive user interface resulting in a 20% increase in customer satisfaction
+•Implemented a caching strategy that reduced response time by 70% and improved
+•Applied recent and most useful React+Redux approache and tools during development.
+•Maintained and modified 3 mid-scale software applications while adhering to existing development principles and practices and delivering new features timely with great quality.
+•Wrote PowerShell scripts for automated deployments to Azure Windows Server VMs, using winrm commands.
+•Refactored and Unit Tested large-scale web applications with methods having 100+ lines of legacy code and improved the code testability by 99%
+
+Senior Full Stack Developer with 7 years of experience in developing and maintaining web applications using modern technologies such as MERN Stack, Laravel, Django, Blockchain and AI.
+Dedicated Customer Service Representative dedicated to providing quality care for ultimate customer satisfaction. 
+Knowledgeable in user interface, testing, and debugging processes.
+Bringing forth expertise in design, installation, testing and maintenance of web systems. 
+Excellent time management skills combined with a superior knowledge of the customer service industry.
+Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+
+Pedro Lysenko(Педро Лисенко)
+Lviv
+Horodotska. 8
+380 96 838 7847
+79000
+National Technical University of Ukraine: Igor Sikorsky Kyiv Polytechnic Institute
+
+I have consistently maintained a high GPA throughout my academic career and have been recognized with several academic awards and scholarships. Additionally, I have successfully completed multiple advanced courses in my field of study, further enhancing my academic achievements.
+So I got Master of Science in Project Management (MSPM), Computer science
+
+Vesalius College, Belgium
+Luleå University of Technology, Sweden
+
+.NET OR UX OR UI OR React OR Vue OR Angular OR C OR C++ OR Java OR C# OR Node OR Express OR Laravel OR PHP OR HTML OR CSS OR SQL OR Mongo OR python OR R OR RUST OR matlab OR solid OR django OR GO OR weaviate OR Docker OR Blockchain OR Flutter OR mobile OR math OR UI OR API OR coin OR crypt OR ETH OR USDT OR BTC OR BNB OR TRN OR ocean OR sea OR GIS OR river OR Yii OR Sym OR Cake OR Design OR Landing OR Web OR Express OR NEXT OR Svelte OR nest OR nuxt OR Gateby OR Code OR Phalcon OR Laminas OR FuelPHP OR PHPixie OR Fat OR Li3 OR Pop OR Puby OR Rails OR Zikula OR Drapal OR Silex OR Qcodo OR spring OR Hibernate OR Apache OR Google OR Vaadin OR Grails OR Drop OR JHipster OR Quarkus OR Git OR Docker OR Ubuntu OR Linux OR mac OR Native OR Flutter OR dart
+
+
+The client's proposal like this:
+" "
+how can I answer? please give me 5 sentences that mainly include how I'll resolve the issues of client's proposal and these sentences should be connected to each other like a novel. In a word these sentences should like a bid so the client have to satisfied and give me a contact about my these sentences. My name is "Joao". As I repeat agian, these sentenses must mainly include how to resolve the technol issues of client's proposal.
+
+Don't be upset if I don't answer your question specifically.
+That's because there are too many fake developers and bots on Upwork, so there's not enough time to boost.
+
+First I set milestone to perform the project completely.
+And I implement frontend and backend such as design, functional, regression, performance, security.
+Lastly, I fix the bug, and execute the project including the tools and frameworks I use.
+Thanks.
+
+
+* mobile applications (iOS and Android) using
+frameworks such as React Native and Flutter.
+* backend developers to create user-friendly and
+visually appealing mobile apps.
+* based on client requirements and feedback,
+ensuring high-quality code and optimal
+performance.
+* identify and fix any issues or bugs, improving
+overall app stability.
+* project management tools (e.g., Jira) to track
+progress and efficiently collaborate with team
+members.

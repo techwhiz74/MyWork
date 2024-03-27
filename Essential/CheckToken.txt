@@ -1,0 +1,20 @@
+Ethereum (ETH) and ERC-20 Tokens:
+Etherscan: https://etherscan.io/
+Etherchain: https://www.etherchain.org/
+
+Binance Smart Chain (BSC) and BEP-20 Tokens:
+BscScan: https://bscscan.com/
+Binance Explorer: https://explorer.binance.org/
+
+Bitcoin (BTC):
+Blockchain.com: https://www.blockchain.com/explorer
+Blockchair: https://blockchair.com/
+
+Litecoin (LTC):
+Blockchair: https://blockchair.com/litecoin
+
+Ripple (XRP):
+XRPScan: https://xrpscan.com/
+
+Cardano (ADA):
+Cardano Explorer: https://cardanoexplorer.com/

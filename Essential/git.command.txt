@@ -1,0 +1,45 @@
+git remote remove origin
+
+git filter-branch --env-filter '
+NEW_NAME="christoperw818"
+NEW_EMAIL="christoperw818@gmail.com"
+
+if [ "$GIT_COMMITTER_EMAIL" != "$NEW_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$NEW_NAME"
+    export GIT_COMMITTER_EMAIL="$NEW_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" != "$NEW_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$NEW_NAME"
+    export GIT_AUTHOR_EMAIL="$NEW_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+
+git remote remove origin
+git remote add origin <remote_repository_url>
+Replace <remote_repository_url> with the URL of your GitHub repository.
+
+git remote -v
+It should display the URL of your remote repository.
+
+git push --mirror origin
+The --mirror option ensures that all branches and tags are pushed to the remote repository.
+
+git remote remove origin
+
+git filter-branch --env-filter '
+NEW_NAME="fatboy0112"
+NEW_EMAIL="fatboy19970112@gmail.com"
+
+if [ "$GIT_COMMITTER_EMAIL" != "$NEW_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$NEW_NAME"
+    export GIT_COMMITTER_EMAIL="$NEW_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" != "$NEW_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$NEW_NAME"
+    export GIT_AUTHOR_EMAIL="$NEW_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags

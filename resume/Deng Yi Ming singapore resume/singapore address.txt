@@ -1,0 +1,7 @@
+Full Address
+56 Pemimpin Pl, Singapore 576053
+street number: 56
+street name: Pemimpin Pl
+postal code: 576053
+
+phone number: +65 6251 0145

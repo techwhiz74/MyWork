@@ -1,0 +1,283 @@
+My name is Imaj Ergest, an C/C++ developer and Network Security specialist from Albania.
+I have read your job details very carefully and I will surely do the job according to your requirements. Your product sounds like it has a lot of potentials based on my initial research, and I’m excited to learn more about your exact needs. Over the past decade, I have wrote the code for Linux Security and Network. The configuration of the Cisco and Huawei switch is my top skills. Besides using the zabbix is my familiar working.
+ 
+I make sure that the highest quality of products and 100% satisfaction through my work.
+I think we can discuss more details via chat.
+ 
+Thank you.
+
+
+
+======================================================================================
+
+
+I am a blockchain engineer who has deep knowledge of Rust, Terra, Go, Cosmwasm, solidity, Web3.js, and terra.js, and I have much experience in Defi-related projects. So it makes me a strong candidate for your job. 
+I can design/develop/test/deploy the smart contracts with solidity and truffle or hardhat. I have much experience in Terra, and as you probably know the both Terra and Solana is written by Rust.
+So writing the smart contracts using the solana is my easy working. The last time, I've worked on similar projects and that's why I am willing to show you some of my projects via private chat. You can check my last project here: 
+Here is the contract link on terra.: https://finder.terra.money/tequila-0004/account/terra1yemfnw25xxcgue7rz09rew9tfqvqq3vn77urw2 
+My Skills:
+- Languages: JavaScript, Node.js,TypeScript, ES6, C/C++, PHP, Python, Rust, golang 
+- Frameworks: React, Next, Vue, Nuxt, Angular, Django, Express 
+- Blockchain: ERC20/721/1155, Several APIs, Solidity, Vyper 
+- Version Management: git, Jira, Trello 
+Please contact me so that we can discuss this in more detail. 
+Thank you. 
+
+
+=====================================================================================
+
+Dear sir. I've read your job posting and I know I am an ideal choice to write this project.
+ 
+My past work is blockchain gambling games and crypto exchange site, NFT site.
+That's why I know very clearly what you need.
+ 
+This NFT site is what I wrote.
+https://app.nonfungibleapes.wtf/
+  
+Skillset:
+- ERC20/BEP20 tokens, Smart Contract, NFT, DeFi
+- Binance && UniSwap && PanCakeSwap API
+- Solidity/Web3.js/React.js/Vue.js
+- C/C++/C#/Java/Python
+- Serverless/AWS Lambda/Terraform
+- Github/Bitbucket/Jira/Trello
+ 
+Thank you.
+
+======================================================================================
+
+
+Dear sir.
+I am a senior blockchain/cryptocurrency/smart contract/web developer with 4 years of experience in blockchain and 7 years in web development.
+I have much experience in connecting wallet through web3.js.
+ 
+- Languages/Knowledges
+○ Javascript/Web3.js/React.js/Vue.js
+○ Solidity
+○ Node
+○ ERC-20/721/1155/NFT
+○ BEP-20
+○ UniSwap/PancaSwapke
+ 
+- Experiences
+○ Wallet Integration with frontend using Web3 & React/Vue
+○ DApp development using Web3 & React/Vue
+○ Contract development using Remix & Solidity
+○ NFT deployment onto OpenSea
+○ Trading bot development based on UniSwap/PancakeSwap
+○ Consultant for ICO/IDO/IEO decisions/roadmaps
+ 
+I'm open to any kind of work/consultant related to blockchain/cryptocurrency/smart contract.
+The DeFi is changing the way we think and live.
+Looking forward to discussing further details in the chat/call.
+ 
+Thanks so much.
+
+======================================================================================
+
+Dear Sir.
+I am a blockchain engineer with a deep knowledge of solidity/Rust/Cosmwasm/Meataplex/web3.js/s, and I have much experience in web & blockchain-related parts.
+I can design/develop/test/deploy the smart contracts with solidity and Rust on Solana and Terra. Also, I can develop a frontend which interacts with smart contracts using web3.js or ethers.js as well.
+The last time, I've worked on several NFT & Defi-related projects, so I have rich experience in developing DApps, and that's why I am willing to show you some of my projects via private chat.
+ 
+This site is what I wrote and you can check this site has stacking function and based on ERC-1155.
+URL: app.nonfungibleapes.wtf
+TOKEN: https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e
+STAKING_POOL: https://etherscan.io/address/0x3bcCBBdE5B9ca293E065aA17cC3123f24B4e005b
+ 
+My Skills:
+- Languages: JavaScript, Node.js,TypeScript, ES6, C/C++, PHP, Python, Rust, golang
+- Frameworks: React, Next, Vue, Nuxt, Django, Express
+- Blockchain: ERC20/721/1155, Several APIs, Solidity, Vyper
+- Version Management: git, Jira, Trello
+ 
+Please contact me so that we can discuss this in more detail.
+Thank you!
+
+
+======================================================================================
+
+URL: app.nonfungibleapes.wtf
+TOKEN: https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e
+STAKING_POOL: https://etherscan.io/address/0x3bcCBBdE5B9ca293E065aA17cC3123f24B4e005b
+ 
+URL: defi.instadapp.io
+GOVERENCE_TOKEN: https://etherscan.io/token/0x6f40d4a6237c257fff2db00fa0510deeecd303eb
+ 
+URL: orbitswap.finance
+PLAN_TOKEN: https://bscscan.com/address/0xdd8E8B0D2E695d19e907EAA8C129Aa785c57562c
+
+Thanks for your invitation.
+As a full-stack blockchain developer who has 5+ years of experience in this stack, I am very familiar with solidity, Web3.js, developing Defi sites, and DApps.
+Especially I have developed several Ethereum DApps with React.js and Web3.js, published some ERC20, ERC721, and branding standard ERC-1155 tokens.
+I always write clean code so that anyone can check and understand my codes easily, so no worries about that. As well as, I can make the deadline task by task as your requirement. I'm familiar with Jira/Trello/Git so that's no problem to use them if you want.
+I'll look forward to chatting with you and have full-time with your team. I'd like to be a member of your team.
+My skillset:
+✓ Languages: Solidity, Javascript, Typescript
+✓ Frontend: React.js, Vue.js, Web3.js
+✓ Web: CSS 3 (including SASS and Stylus), HTML5
+✓ Databases: DynamoDB, MongoDB, PostgreSQL, MySQL, Redis
+✓ Tests: Mocha, Chai
+✓ Version control: GIT, SVN; Github, BitBucket
+Thank you!
+
+
+===================================================================================
+
+Dear Sir.
+My Name is XXX.
+I am a senior full-stack developer and I have 5+ years of experience in node.js and 10 years in PHP.
+ 
+The major languages/frameworks that I am best at:
+ 
+Backend:
+-Serverless/Django/Node.js/Express/PHP
+- AWS/AWS Amplify/AWS SAM/AWS Lambda
+- MySQL/PostgreSQL/AWS RDS & Data API/AWS DynamoDB
+- Stripe/SendGrid Integrations
+ 
+Frontend:
+- ES5/ES6, TypeScript, SCSS, CSS3,
+- React/Redux/React Hooks/Material-UI/Next.js/Gatsby/React Bootstrap/Storybook
+- Vue2/Vue3/Vuex/Vue-Router/Vuetify/Nuxt.js
+- Jest/React Testing Library/Cypress/Mocha
+- REST/GraphQL/Axios
+- OAuth2/JWT/Auth0/AWS Cognito
+- Figma/Adobe XD/Invision/Zeplin
+ 
+I use the following tools every day the development:
+- GIT, GitHub, GitLab, Bitbucket
+- JIRA/Trello/Asana/YouTrack/Pivotal Tracker
+ 
+I have been working in remote teams with the agile development environment for the last 5 years.
+I am good at balancing quality and productivity.
+I am available for 40+ hrs/week.
+Thanks so much for reviewing my proposal.
+
+================================================================================
+
+I am a blockchain engineer who has deep knowledge of Rust, Solana, Go, Cosmwasm, solidity, Web3.js, and terra.js, and I have much experience in Defi-related projects. So it makes me a strong candidate for your job.
+I can design/develop/test/deploy the smart contracts with solidity and truffle or hardhat.
+The last time, I've worked on similar projects and that's why I am willing to show you some of my projects via private chat.
+ 
+You can check my last project here:
+https://orbitswap.finance/
+ 
+Besides, Here is the contract link on terra.: https://finder.terra.money/tequila-0004/account/terra1yemfnw25xxcgue7rz09rew9tfqvqq3vn77urw2
+ 
+github: https://github.com/cryptoDev222/simple-send
+ 
+My Skills:
+- Languages: JavaScript, Node.js,TypeScript, ES6, C/C++, PHP, Python, Rust, golang
+- Frameworks: React, Next, Vue, Nuxt, Angular, Django, Express
+- Blockchain: ERC20/721/1155, Several APIs, Solidity, Vyper
+- Version Management: git, Jira, Trello
+ 
+Please contact me so that we can discuss this in more detail.
+Thank you.
+Bajram.
+
+
+================================================================================
+
+Dear Sir.
+I am Davdi Zhang, located in Singapore.
+ 
+I have read your job details very carefully and I will surely do the job according to your requirements.
+Your product sounds like it has a lot of potentials based on my initial research, and I’m excited to learn more about your exact needs.
+ 
+I wrote the terra && mirror && cosmwasm based CW-20 token for 6 months, and it's my NDA project
+ 
+I attached my past working's some screenshot to let you know my experience,and I'd be happy to show you my past working, if you'd like.
+I can write the above thing using cosmwasm std 0.14.0, and migrate it to 0.16.0.
+ 
+I know I can do your task within 2 weeks.
+ 
+Skillset:
+- Languages: C/C++, Rust, golang, JavaScript, Node.js, React.js, ES6
+- Blockchain: ERC20/721/1155, Solidity, Solana, Terra, Cosmwasm
+- Cloud Service  : AWS, Goold cloud platform
+- Source Managment: github, bitbucket
+ 
+Please contact me so that we can discuss this in more detail.
+Thank you.
+
+===================================================================================
+
+
+Dear Sir.
+I am Jason Lu, located in Toronto, Canada.
+I am from HongKong, moved cross country to Canada 2 years ago.
+I have read your job details very carefully and I will surely do the job according to your requirements.
+Your product sounds like it has a lot of potentials based on my initial research, and I’m excited to learn more about your exact needs.
+ 
+I wrote the terra && mirror && cosmwasm based CW-20 token for 6 months, and it's my NDA project, that's why I can show you through screen share.
+Besides, I can write the Solana based NFT smart contracts.
+This site is what I wrote can mint the NFT by using the metaplex candy machine.
+
+https://shadows-680dd.web.app/
+
+https://demonpunks-9ce64.web.app
+ 
+https://luckylemurs.com/test
+ 
+https://mint.cheems.co/
+ 
+https://react-order-of-shadows-solana.vercel.app/
+ 
+ 
+I can do your task within 5 days.
+1. Write the smart contracts 2 days
+2. Upload the assets to devnet  2days.
+3. Test 1 day
+ 
+Skillset:
+- Languages: C/C++, Rust, golang, JavaScript, Node.js, React.js, ES6
+- Blockchain: ERC20/721/1155, Solidity, Solana, Terra, Cosmwasm
+- Version Management: git, Jira, Trello
+ 
+Please contact me so that we can discuss this in more detail.
+Thank you.
+ 
+ 
+https://beanverse-b464a.web.app/
+https://plush-fight-league.web.app/
+https://pepepunks-41482.web.app/
+https://thesullen-2c862.web.app/
+
+
+==================================================================================
+
+Dear Sir. 
+I've read your job posting carefully and I found your proposal is very fit to my past experience. 
+This NFT mint site is I wrote using the Solana metaplex candy machine.
+ https://luckylemurs.com/test 
+ 
+ 
+- Generate 10k unique NFTs with rarity and traits : 3 days 
+- Develop Solana NFT smart contract (needs to connect with secondary markets like Solanart etc) : 1 day 
+- Connect our website to Solana wallets using Web3 so collectors can mint the NFT on our website : 1 day 
+- Support us in sending out the NFTs after minting completed : 6 months (one month is free working the remained 5 month is contracted working with part time) 
+ 
+I am looking forward to you and talk in more detail soon! 
+Chun.
+
+====================================================================================
+
+Dear sir.
+I've read your proposal carefully and I found my skill is very match to your proposal.
+These sites are what I wrote using the Solana metaplex candy machine.
+ 
+https://luckylemurs.com
+https://shadows-680dd.web.app/
+https://demonpunks-9ce64.web.app
+ 
+- Languages: C/C++, Rust, golang, JavaScript, Node.js, React.js, ES6
+- Blockchain: ERC20/721/1155, Solidity, Solana, Terra, Cosmwasm
+- Version Management: git, Jira, Trello
+ 
+I'll look forward to chatting with you and have full time with your project. 
+Thank you!
+
+======================================================================================
+

@@ -1,0 +1,202 @@
+Client Name: Stephan Scheuerer
+Company Name: Lion Werbung Gmbh(Lion Advertising GmbH)
+Lion Werbe GmbH, Kampenwandstr. 10, 83134 Prutting, Germany
+
+https://konsoleh.your-server.de/login.php?domain=lionwerbung.de
+lionwerbung.de
+k10000
+tKX64Ic16CYj9EF1
+
+server: dedi6056.your-server.de
+Loginname: k10000
+password: tKX64Ic16CYj9EF1
+port: 222
+
+erp.lionwerbung.de
+db: k10000_lion_werbung.sql
+
+www.stickdatei-vektordatei.de
+https://konsoleh.your-server.de/login.php?domain=stickdatei-vektordatei.de
+Login: stickdatei-vektordatei.de (edited) 
+Passwort: FTwnEDc4cAA7BQ1H (edited) 
+
+Domain Server
+https://www.hetzner.com/
+
+webwork owner: 
+service@lionwerbung.de
+kad1ycj0qkw_WMD3kaj
+
+Mailtrap
+info@lionwerbung.de
+ZMC@mgu5vde5dmq4gzg
+
+Slack account
+lionwerbegmbh.slack.com
+slack:https://app.slack.com/workspace-signin?redir=%2Fgantry%2Fauth%3Fapp%3Dclient%26lc%3D1693323657%26return_to%3D%252Fclient%252FT05Q1TKJKK5%252FD05PVE09KM4%26teams%3D
+
+Domain: stickdatei-vektordatei.de dns recode
+$ORIGIN stickdatei-vektordatei.de.
+$TTL 7200
+; SOA Records
+@		IN	SOA	ns1.your-server.de. postmaster.your-server.de. 2023122002 86400 10800 3600000 3600
+; NS Records
+@		IN	NS	ns.second-ns.com.
+@		IN	NS	ns1.your-server.de.
+@		IN	NS	ns3.second-ns.de.
+; MX Records
+@		IN	MX	10 dedi6056.your-server.de.
+; A Records
+@		IN	A	188.40.26.220
+www		IN	A	188.40.26.220
+; CNAME Records
+6lcf73i40mky611p	600	IN	CNAME	smtp.mailtrap.live
+mt-link	600	IN	CNAME	t.mailtrap.live
+rwmt1._domainkey	600	IN	CNAME	rwmt1.dkim.smtp.mailtrap.live
+rwmt2._domainkey	600	IN	CNAME	rwmt2.dkim.smtp.mailtrap.live
+; TXT Records
+@		IN	TXT	"v=spf1 +a +mx include:_spf.smtp.mailtrap.live ?all"
+_dmarc		IN	TXT	"v=DMARC1; p=none; rua=mailto:dmarc@smtp.mailtrap.live; ruf=mailto:dmarc@smtp.mailtrap.live; rf=afrf; pct=100"
+; Others
+_autodiscover._tcp		IN	SRV	0 100 443 mail.your-server.de.
+_imaps._tcp		IN	SRV	0 100 993 mail.your-server.de.
+_pop3s._tcp		IN	SRV	0 100 995 mail.your-server.de.
+_submission._tcp		IN	SRV	0 100 587 mail.your-server.de.
+
+WhatsApp number
++4980369099894
+
+
+
+You can find the current status of the system on the subdomain erp.lionwerbung.de Lion|Werbung
+i want that you will code step by step with our instructions otherwise I lose the overview. this are the logins for the system: 
+Vector Freelancer
+email => vectorfreelancer@gmail.com
+password => 123456789 Embroidery 
+Freelancer
+email => embroideryfreelancer@gmail.com
+password => 123456789 
+Customer
+email = customer@gmail.com
+password => 123456789 
+Admin
+email => admin@gmail.com
+password => 123456789 
+You will start with Customer plattform coding when you're ready to start programming let me know when you've read everything. Then you will get the first instructions from me.
+Please note that this is a very big project and the ordering system is just the beginning. Please do not accept any more orders. You are now employed full-time with us.
+
+Task1:'Inter', Helvetica, sans-serif
+
+k10000_lionwer
+R1w9yKHL1pKPNBLS
+
+-task3
+https://www.newwave-germany.de/
+info@sts-werbung.de
+#Kampen10&scmk141517+
+
+upload-header, sidebar, home.blade.php, global, custormer_profile.blade.php
+https://upload-files-cos.s3.amazonaws.com
+-task4
+Amazon S3:
+AWinfo@lionwerbung.de
+xda8dvg!DVA6pcv8kyf
+
+upload- asset/svg, head, vieworder, OrderController, web.php, customer profile, sidebar
+	global, Models(Order, Order_file_upload), config
+10:37 AM 9/12/2023
+head, customer-profile, 
+
+
+
+-modal
+`small modal button
+`js
+-freelacner pagination translation
+-folder button move padding 2px
+-file upload start/cancel button german/english
+-freelancer change request delete function
+-???? in sticky/vector folder add anderung files?
+-change password freelancer
+-change avatar and update avatar
+-responsive
+-freelacner delete file which he uploaded function
+-admin add order validation
+
+<script src="//code.tidio.co/3vdgnxhqqbmlsvuddigz7ru0kc6xshu9.js" async></script>
+xoxb-5817937631651-6346534787090-Z9AlSDWTm84cWY7VkskhpEzj
+xoxb-5817937631651-6346534787090-Z9AlSDWTm84cWY7VkskhpEzj
+Webhook URL
+https://hooks.slack.com/services/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
++4980369099894
+
+
+New DNS zone file
+$ORIGIN stickdatei-vektordatei.de.
+$TTL 7200
+; SOA Records
+@		IN	SOA	ns1.your-server.de. postmaster.your-server.de. 2023122100 86400 10800 3600000 3600
+; NS Records
+@		IN	NS	ns.second-ns.com.
+@		IN	NS	ns1.your-server.de.
+@		IN	NS	ns3.second-ns.de.
+; A Records
+@		IN	A	188.40.26.220
+www		IN	A	188.40.26.220
+; CNAME Records
+mt-link	3600	IN	CNAME	t.mailtrap.live.
+rwmt1._domainkey	3600	IN	CNAME	rwmt1.dkim.smtp.mailtrap.live.
+rwmt2._domainkey	3600	IN	CNAME	rwmt2.dkim.smtp.mailtrap.live.
+uwntbl0ixhxmsjkq	3600	IN	CNAME	smtp.mailtrap.live.
+; TXT Records
+@		IN	TXT	"v=spf1 +a +mx include:_spf.smtp.mailtrap.live ?all"
+_dmarc		IN	TXT	"v=DMARC1; p=none; rua=mailto:dmarc@smtp.mailtrap.live; ruf=mailto:dmarc@smtp.mailtrap.live; rf=afrf; pct=100"
+
+
+status:
+Offen-green
+In Bearbeitung-yellow
+Ausgeliefert-red
+Änderung-blue
+
+
+Folder:
+Originaldatei
+Stickprogramm, Vektordatei
+Stickprogramm Änderung, Vektordatei Änderung
+Änderungsdateien Kunde
+Freelancer Button
+green = Job starten
+yellow = Job beenden
+blue = Änderung starten
+blue = Änderung beenden
+red = not such button
+Order-Type(Art)
+Embroidery/Vector(Stickerei/Vektor)
+Deliivery-Time(Lieferzeit)
+Standard/Express(Standard/Äußern)
+
+
+Problems
+chatting long poling(show same 2 messages)
+admin place a order, repeat, hover
+responsive
+chatting(integrate with slack, deleted app)
+customer change profile after admin add customer(validation)
+forgot password
+
+This has nothing to do with system. Please don't criticize me for speaking too bluntly.
+Why don't you pay last weeks work?
+Do you have any opinion for me? If then please tell me without reservation.
+I'm too embarrassed to ask for money from you and I don't want to talk about it.
+But isn't it right to get paid for your work?
+I wanted to get paid before Christmas, but you ignored my suggestion. Have you ever thought about my situation from my perspective?
+I feel not good for you about this.
+I think we need to discuss again about payment from new year.
+Have a good night
+
+Hi Stephan, How are you?
+Your developer should remove my email address in email sending function part of controller code because I've added my email address in there for sending email test, so some order emails I made such as Neue Bestellung Stickprogramm, Neue Bestellung Vektordatei ect are transfered in my gmail accout everyday.
+When I receive an email like this, I think about the our past working and feel sorry about you and your company. I am very difficult now because I didn't find a job yet, I am regretting my past working sincerely.
+Thanks for maintaining this slack channel yet and I am checking message that coming from you in this slack account everyday because...Of course I know it will unable to be possible.
+I hope you are doing well. Thanks for reading my writing.

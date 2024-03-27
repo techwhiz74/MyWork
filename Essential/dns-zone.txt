@@ -1,0 +1,26 @@
+$ORIGIN stickdatei-vektordatei.de.
+$TTL 7200
+; SOA Records
+@		IN	SOA	ns1.your-server.de. postmaster.your-server.de. 2023122002 86400 10800 3600000 3600
+; NS Records
+@		IN	NS	ns.second-ns.com.
+@		IN	NS	ns1.your-server.de.
+@		IN	NS	ns3.second-ns.de.
+; MX Records
+@		IN	MX	10 dedi6056.your-server.de.
+; A Records
+@		IN	A	188.40.26.220
+www		IN	A	188.40.26.220
+; CNAME Records
+6lcf73i40mky611p	600	IN	CNAME	smtp.mailtrap.live
+mt-link	600	IN	CNAME	t.mailtrap.live
+rwmt1._domainkey	600	IN	CNAME	rwmt1.dkim.smtp.mailtrap.live
+rwmt2._domainkey	600	IN	CNAME	rwmt2.dkim.smtp.mailtrap.live
+; TXT Records
+@		IN	TXT	"v=spf1 +a +mx include:_spf.smtp.mailtrap.live ?all"
+_dmarc		IN	TXT	"v=DMARC1; p=none; rua=mailto:dmarc@smtp.mailtrap.live; ruf=mailto:dmarc@smtp.mailtrap.live; rf=afrf; pct=100"
+; Others
+_autodiscover._tcp		IN	SRV	0 100 443 mail.your-server.de.
+_imaps._tcp		IN	SRV	0 100 993 mail.your-server.de.
+_pop3s._tcp		IN	SRV	0 100 995 mail.your-server.de.
+_submission._tcp		IN	SRV	0 100 587 mail.your-server.de.
