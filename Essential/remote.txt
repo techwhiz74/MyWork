@@ -45,3 +45,5 @@ exchange rate:		https://coingate.com/exchange-rates
 jaylee.yazmina@madeforthat.org
 0x3f3...98fb
 
+chinadophin
+baruchsightandsound
