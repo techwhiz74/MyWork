@@ -1,0 +1,76 @@
+email: bertrandsmall1@gmail.com
+pwd: 1234!@#$
+job pass: GoodJob123!
+
++1 301 476 0572
+Bertrand Glen Small
+02/13/1995
+3573 LAUREL FT MEADE RD #306 
+Laurel Maryland 20724
+linkedin:
+https://www.linkedin.com/in/bertrand-small-4045a1316
+SSN: 580-29-6334
+common pwd: Bertrand@1234
+
+Bachelor of Computer Science
+Johns Hopkins University
+04/2013 – 09/2016 | Baltimore, MD
+This is Golang developer resume.
+
+Job channels
+indeed
+ziprecruiter.com
+dice.com
+glassdoor
+otta
+lensa
+iHire Technology
+adzuna
+
+https://panel.cloudzy.com/
+ubuntu-US-New-York-4gb
+2 vCPU-4 GB RAM-120 GB Disk
+172.86.96.171
+username: root
+pass: x8oAhh47Ggibv8
+
+Ubuntu commands for squid proxy
+sudo nano /etc/squid/squid.conf
+http_port 61234
+acl allowed_ips src ip
+http_access allow allowed_ips
+http_access deny all
+ctr+x, yes
+sudo systemctl restart squid
+
+get skype phone number using Debit card
+name: Sasa Velickovic
+email: vsasav93@gmail.com
+address line1: Cvijiceva 17
+City/Town: Beograd
+Postal/Zip code: 11200
+Country: Serbia
+5293 6600 7300 0289
+Valid thru - 11/26   
+CVV - 967
+
+Bertland skype account
+turidkosmos@gmail.com
+Harry@potter@2024
+Andrew012@2024
+
+References
+Full Name: Andrew Michael Talbot
+Organization: BeyondKey Team Leader
+Phone: 530 392 8768
+Email: turidkosmos@gmail.com
+
+Full Name: Aaron Knox
+Organization: BeyondKey Team Leader
+Phone: 7652673627
+Email: aronknox0608@gmail.com
+
+Full Name:Joshua Tolliver
+Organization: BeyondKey Team Leader
+Phone:469-272-6540
+Email: turidkosmos@gmail.com

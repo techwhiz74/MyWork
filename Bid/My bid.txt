@@ -57,174 +57,54 @@ I would be delighted to have the opportunity to discuss your project in more det
 Thank you for your time and consideration. I look forward to hearing from you soon.
 Best regards,
 
+-----------------New Bid--------------------------------
+Hello
+My name is Hakeo and I am a blockchain and full stack developer.
+I have about 8 years of experience.
+Here is my github and some previous works.
+
+Technical skills
+- Figma, React/Next, Vue/Nuxt, Angular
+- Node/Express, Python/Django/Flask
+- Solidity, Rust, C/C++
+
+https://www.github.com/kryptify
+
+Staking & Lend
+https://www.notional.finance/
+https://staking.peri.finance/
+
+Swap & Bridge https://app.xy.finance/
+NFT Marketplace https://minted.vodka/
+NFT & DeFi   https://bsx.fi
+Wallet App https://okse.io/
+Gambling https://ridotto.io/lottery
 
 
+Hey everyone! 
+I’m a passionate Senior Blockchain & Full-Stack Dev with 8+ years in many projects, ready to bring my magic to new projects.
+Kindly check my linkedin profile.
+
+1.Here’s a quick look at my skills:
+  -DApps, DEX, DeFi, NFT Marketplaces: Crafting scalable, secure platforms and connecting communities.
+  -Smart Contracts & DAOs: Dedicated to reliability and empowering through innovation.
+  -Blockchain Gaming: Merging innovation with fun.
+
+2.Tech Toolkit:
+  -Design: Love making ideas shine with Figma.
+  -Front-End: Expert in React/Next, Vue/Nuxt, Angular.
+  -Back-End: Strong with Node/Express, Python/Django, Flask.
+  -Blockchain: Solidity, Rust, C/C++ enthusiast.
+
+Got a project that needs some of that spark? I'd love to hear about it! Feel free to slide into my DMs.
+
+Cheers and thanks for considering me!
 
 
+Hi, everyone!
+Who needs blockchain developer?
 
 
-... on ComponentPagesTabs {
-            Title
-            SubTitle
-            Disabled
-            TabsCTA {
-              target
-              text
-              url
-              Disabled
-            }
-            TabFields {
-              Disabled
-              TabTitle
-              Title
-              Description
-              Image {
-                data {
-                  attributes {
-                    width
-                    hash
-                    height
-                    url
-                    ext
-                    name
-                    alternativeText
-                    formats
-                  }
-                }
-              }
-            }
-          }
-          ... on ComponentPagesBanner {
-            Title
-            Disabled
-            CTA {
-              Disabled
-              url
-              text
-              target
-            }
-            Color
-            Description
-            Image {
-              data {
-                attributes {
-                  url
-                  width
-                  height
-                  alternativeText
-                  formats
-                  hash
-                  ext
-                }
-              }
-            }
-          }
-          ... on ComponentPagesQuoteSlider {
-            Disabled
-            Quote {
-              Disabled
-              id
-              quote
-              author
-            }
-          }
-          ... on ComponentPagesFeatureImgText {
-            Disabled
-            Title
-            Color
-            Description
-            Image {
-              data {
-                attributes {
-                  hash
-                  url
-                  size
-                  formats
-                  alternativeText
-                  name
-                  ext
-                }
-              }
-            }
-          }
-          ... on ComponentPagesVimeo {
-            Disabled
-            Title
-            EmbedCode
-            Description
-          }
-          ... on ComponentPagesMap {
-            Disabled
-            GoogleMapUrl
-            Image {
-              data {
-                attributes {
-                  formats 
-                  url
-                  ext
-                  alternativeText
-                  hash
-                  width
-                  height
-                }
-              }
-            }
-          }
-          ... on ComponentPagesImage {
-            Disabled
-            caption
-            image {
-              data {
-                attributes {
-                  url
-                  width
-                  height
-                  alternativeText
-                  formats
-                  hash
-                  ext
-                }
-              }
-            }
-          }
-          ... on ComponentPagesQuote {
-            Disabled
-            quote
-            author
-          }
-          ... on ComponentPagesRichText {
-            Disabled
-            richText
-          }
-          ... on ComponentPagesBlogPosts {
-            Disabled
-            Title
-            Description
-          }
-          ... on ComponentPagesAddForm {
-            id
-            form {
-              data {
-                attributes {
-                  Title
-                  Description
-                  FormFields {
-                    FormId
-                    ButtonLabel
-                    CustomInput(pagination: {start: 0, limit: -1}) {
-                      Type
-                      Label
-                      Help
-                      Min
-                      Max
-                      InputID
-                      Placeholder
-                      Required
-                      Options
-                      NotAFit
-                    }
-                  }
-                }
-              }
-            }
-          }
+Hello
+I am senior JavaScript / Blockchain Engineer with extensive expertise in designing and implementing decentralized applications on prominent blockchain platforms such as Ethereum, Solana, Hyperledger Fabric, and Binance Smart Chain.
+If have interested in me, please dm

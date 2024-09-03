@@ -1,0 +1,14 @@
+I just want Lbank API specialist
+It's just balancing with DEX platform.
+It's only for tonk/usdt.
+After comparing the price of tonk/usdt between LBank and other DEX platform like stonfi.
+If there is difference, you have to match the price of LBank by buying or selling.
+First you have to make Lbank API part to buy or sell any amount.
+After completing project
+
+
+You have to test it
+Whether Lbank API is working or not
+You can check if any amount is working or not
+
+https://www.lbank.com/en-US/docs/contract.html#introduction
